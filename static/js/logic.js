@@ -57,7 +57,7 @@ console.log(url)
     }
 
     // Add legend to the map
-    //code to go here
+    //Hopefu;;u this works
 
         // create the legend and position it
         const legend = L.control({ position: "bottomright" });
